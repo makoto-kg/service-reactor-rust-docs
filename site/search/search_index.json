@@ -1,1 +1,0 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Service Reactor Rust","text":"<p>Reactive service framework for Rust.</p>"},{"location":"#subject1","title":"subject1","text":"<p>contents</p>"},{"location":"#subject2","title":"subject2","text":"<p>contents</p>"}]}
